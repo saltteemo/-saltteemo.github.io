@@ -4,8 +4,12 @@ title: "Learning Resources"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
-image: spools.jpg
+image: https://cdn.jsdelivr.net/gh/saltteemo/pic@master/%E8%A5%BF%E9%87%8E%E4%B8%83%E6%BF%91%20X%20%E6%96%8B%E8%97%A4%E9%A3%9E%E9%B8%9F.jpeg
 ---
+
+【空格的测试】  
+
+%20X%20X西野七濑%20X%20斋藤飞鸟
 
 The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
 

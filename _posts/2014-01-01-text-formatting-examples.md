@@ -4,7 +4,7 @@ title: "Text Formatting Examples"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
-image: https://cdn.jsdelivr.net/gh/saltteemo/pic@master/DKDN-032.gif
+#image: https://cdn.jsdelivr.net/gh/saltteemo/pic@master/DKDN-032.gif
 ---
 
 # Markdown Support

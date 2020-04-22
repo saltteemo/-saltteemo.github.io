@@ -4,7 +4,7 @@ title: "Learning Resources"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
-image: https://cdn.jsdelivr.net/gh/saltteemo/pic@master/%E8%A5%BF%E9%87%8E%E4%B8%83%E6%BF%91%20X%20%E6%96%8B%E8%97%A4%E9%A3%9E%E9%B8%9F.jpeg
+
 ---
 
 【空格的测试】  
